@@ -6,5 +6,3 @@ Dies soll alles dann wieder zurückgesetzt werden
 
 1. Hallo
 2. Velo
-
-Hallo
